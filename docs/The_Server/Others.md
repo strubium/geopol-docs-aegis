@@ -1,3 +1,7 @@
+---
+title: Other
+position: 5
+---
 ### Here you can find details about disabled features and other not so important things.
 
 <details>
