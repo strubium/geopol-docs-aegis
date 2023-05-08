@@ -1,6 +1,6 @@
 ---
 title: Modern Warfare Cubed
-position: 1
+position: 2
 ---
 
 # Modern Warfare Cubed
